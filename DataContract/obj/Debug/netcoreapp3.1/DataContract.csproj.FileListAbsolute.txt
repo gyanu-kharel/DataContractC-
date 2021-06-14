@@ -1,0 +1,13 @@
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.exe
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.deps.json
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.runtimeconfig.json
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.runtimeconfig.dev.json
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\bin\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.csprojAssemblyReference.cache
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfoInputs.cache
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfo.cs
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Gyan Mani Kharel\source\repos\DataContract\DataContract\obj\Debug\netcoreapp3.1\DataContract.genruntimeconfig.cache
